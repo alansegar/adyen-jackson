@@ -7,3 +7,5 @@ This repo demonstrates how to use a custom Jackson serializer to ensure the JSON
 This avoids the need to alter the internal contents of the Adyen Java library, so the standard Maven dependency can still be used.
 
 Blog post http://alansegar.co.uk/apl/2020/07/13/adyen-java-library-with-jackson-json/
+
+Adyen bug report: https://github.com/Adyen/adyen-java-api-library/issues/340
